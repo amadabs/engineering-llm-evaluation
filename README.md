@@ -1,4 +1,4 @@
-# engineering-llm-evaluation# Engineering LLM Evaluation & STEM Prompt Portfolio
+# Engineering LLM Evaluation & STEM Prompt Portfolio
 
 Author: Amakiri Wisdom, B.Eng. Mechanical Engineering (University of Port Harcourt, 2024)
 
